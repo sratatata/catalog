@@ -1,0 +1,29 @@
+{
+    "sheets":[
+        {
+            "name":"Resistors",
+            "headers": [
+                "#INDEX",
+                "Symbol",
+                "Resistance",
+                "Row",
+                "Precision",
+                "Power",
+                "Amount",
+                "Price"
+            ]
+        },
+        {
+            "name":"Capacitors",
+            "headers":[
+                "#INDEX",
+                "Symbol",
+                "Capacity",
+                "Voltage",
+                "Type",
+                "Amount",
+                "Price"
+            ]
+        }
+    ]
+}
