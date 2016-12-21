@@ -4,8 +4,8 @@
             "name":"Resistors",
             "headers": [
                 "Symbol",
-                "Resistance",
-                "Row",
+                "Preferred Number",
+                "Multiplier",
                 "Precision",
                 "Power",
                 "Type",
@@ -19,7 +19,8 @@
             "name":"Capacitors",
             "headers":[
                 "Symbol",
-                "Capacity",
+                "Preferred Number",
+                "Multiplier",
                 "Voltage",
                 "Type",
                 "Package",
@@ -72,7 +73,7 @@
         {
             "name":"Others",
             "headers":[
-                "Symbol,"
+                "Symbol",
                 "Name",
                 "Parameters",
                 "Package",
