@@ -1,0 +1,48 @@
+{
+    "sheets":[
+        {
+            "name": "Platforms",
+            "headers":[
+                "Name",
+                "Microcontroller",
+                "Amount",
+                "Price",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Modules",
+            "headers":[
+                "Symbol",
+                "Name",
+                "Amount",
+                "Price",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Breakouts",
+            "headers":[
+                "Name",
+                "Amount",
+                "Price",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Tools",
+            "headers":[
+                "Name",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        }
+    ]
+}

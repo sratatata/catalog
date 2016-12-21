@@ -1,0 +1,87 @@
+{
+    "sheets":[
+        {
+            "name":"Resistors",
+            "headers": [
+                "Symbol",
+                "Resistance",
+                "Row",
+                "Precision",
+                "Power",
+                "Type",
+                "Package",
+                "Amount",
+                "Price",
+                "Tags"
+            ]
+        },
+        {
+            "name":"Capacitors",
+            "headers":[
+                "Symbol",
+                "Capacity",
+                "Voltage",
+                "Type",
+                "Package",
+                "Amount",
+                "Price",
+                "Tags"
+            ]
+        },
+        {
+            "name":"Diodes",
+            "headers":[
+                "Symbol",
+                "Current",
+                "Leak Voltage",
+                "Type",
+                "Package",
+                "Amount",
+                "Price",
+                "Tags"
+            ]
+        },
+        {
+            "name":"Transistors-bipolar",
+            "headers":[
+                "Symbol",
+                "Type",
+                "Max Volatage",
+                "Max Current",
+                "Wireing",
+                "Package",
+                "Amount",
+                "Price",
+                "Tags"
+            ]
+        },
+        {
+            "name":"Transistors-mosfet",
+            "headers":[
+                "Symbol",
+                "Type",
+                "Max Voltage",
+                "Max Current",
+                "Resistance",
+                "Package",
+                "Amount",
+                "Price",
+                "Tags"
+            ]
+        },
+        {
+            "name":"Others",
+            "headers":[
+                "Symbol,"
+                "Name",
+                "Parameters",
+                "Package",
+                "Amount",
+                "Price",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        }
+    ]
+}

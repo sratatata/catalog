@@ -1,0 +1,71 @@
+{
+    "sheets":[
+        {
+            "name": "Voltage Regulators",
+            "headers": [
+                "Symbol",
+                "Title",
+                "Voltage",
+                "Max Current",
+                "Package",
+                "Amount",
+                "Price",
+                "Datasheet",
+                "Comments",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Microcontrollers",
+            "headers": [
+                "Symbol",
+                "Title",
+                "Package",
+                "Amount",
+                "Price",
+                "Datasheet",
+                "Comments",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Digital",
+            "headers": [
+                "Symbol",
+                "Title",
+                "Package",
+                "Amount",
+                "Price",
+                "Datasheet",
+                "Comments",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Analog",
+            "headers": [
+                "Symbol",
+                "Title",
+                "Package",
+                "Amount",
+                "Price",
+                "Datasheet",
+                "Comments",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Sensors",
+            "headers": [
+                "Symbol",
+                "Title",
+                "Package",
+                "Amount",
+                "Price",
+                "Datasheet",
+                "Comments",
+                "Tags"
+            ]
+        }
+    ]
+}
