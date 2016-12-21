@@ -1,0 +1,46 @@
+{
+    "sheets":[
+        {
+            "name": "Connectors",
+            "headers":[
+                "Symbol",
+                "Title",
+                "Amount",
+                "Price",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Packages",
+            "headers":[
+                "Symbol",
+                "Name",
+                "Amount",
+                "Price",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Fitting elements",
+            "headers":[
+                "Name",
+                "Amount",
+                "Price",
+                "Description",
+                "Tags"
+            ]
+        },
+        {
+            "name": "Others",
+            "headers":[
+                "Name",
+                "Link",
+                "Description",
+                "Tags"
+            ]
+        }
+    ]
+}
